@@ -76,6 +76,9 @@ ol {
     max-height: 50vh;
 }
 
+input[type="checkbox"]{
+    margin-right: 5px;
+}
 
 @media screen and (max-width: 780px) {
     input[type="submit"] {
