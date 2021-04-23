@@ -104,14 +104,16 @@ input[type="checkbox"]{
     }
 }
 
-
+@media screen and (max-width: 480px){
+    main{
+        width: 95%;
+    }
+}
 
 @media screen and (max-width: 400px) {
     #toDo {
         width: 100%;
         font-size: 0.9em;
     }
-    main{
-        width: 95%;
-    }
+
 }
