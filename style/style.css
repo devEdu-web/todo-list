@@ -102,6 +102,9 @@ input[type="checkbox"]{
         flex-direction: column;
         gap: 15px;
     }
+    main{
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 480px){
